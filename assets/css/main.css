@@ -613,7 +613,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 60px 0;
+  /* padding: 60px 0; */
   scroll-margin-top: 77px;
   overflow: clip;
 }
@@ -987,7 +987,7 @@ h2{
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
+  /* font-style: italic; */
   margin: 15px auto 15px auto;
 }
 
